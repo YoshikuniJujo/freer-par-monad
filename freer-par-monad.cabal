@@ -6,7 +6,9 @@ cabal-version: 2.2
 
 name:           freer-par-monad
 version:        0.1.0.0
+synopsis:       Freer par monad
 description:    Please see the README on GitHub at <https://github.com/YoshikuniJujo/freer-par-monad#readme>
+category:       Monads
 homepage:       https://github.com/YoshikuniJujo/freer-par-monad#readme
 bug-reports:    https://github.com/YoshikuniJujo/freer-par-monad/issues
 author:         Yoshikuni Jujo
